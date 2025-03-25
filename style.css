@@ -1,0 +1,32 @@
+body{
+    background-image: url("https://images.pexels.com/photos/6120182/pexels-photo-6120182.jpeg?auto=compress&cs=tinysrgb&w=600");
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+#Registration{
+    align-self: left;
+    
+  
+    width: 300px;
+    height: 300px;
+    margin-left: 500px;
+  
+}
+h1 {
+    text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 29px;
+    
+}
+.Button_sub{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    
+    background-color:  rgb(230, 137, 23);
+    border: 5px solid black;
+    cursor: pointer;
+    padding: 2%;
+    
+    
+}
